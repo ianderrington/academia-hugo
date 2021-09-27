@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academia</title>
-    <link>https://sukiakiumo.github.io/academia-hugo/</link>
+    <link>https://sukiakiumo.github.io/</link>
     <description>Recent content on Academia</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://sukiakiumo.github.io/academia-hugo/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://sukiakiumo.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://sukiakiumo.github.io/academia-hugo/talk/</link>
+      <link>https://sukiakiumo.github.io/talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://sukiakiumo.github.io/academia-hugo/talk/</guid>
+      <guid>https://sukiakiumo.github.io/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Courses</title>
-      <link>https://sukiakiumo.github.io/academia-hugo/courses/</link>
+      <link>https://sukiakiumo.github.io/courses/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://sukiakiumo.github.io/academia-hugo/courses/</guid>
+      <guid>https://sukiakiumo.github.io/courses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://sukiakiumo.github.io/academia-hugo/publication/</link>
+      <link>https://sukiakiumo.github.io/publication/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sukiakiumo.github.io/academia-hugo/publication/</guid>
+      <guid>https://sukiakiumo.github.io/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>https://sukiakiumo.github.io/academia-hugo/post/</link>
+      <link>https://sukiakiumo.github.io/post/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sukiakiumo.github.io/academia-hugo/post/</guid>
+      <guid>https://sukiakiumo.github.io/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://sukiakiumo.github.io/academia-hugo/slides/</link>
+      <link>https://sukiakiumo.github.io/slides/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sukiakiumo.github.io/academia-hugo/slides/</guid>
+      <guid>https://sukiakiumo.github.io/slides/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://sukiakiumo.github.io/academia-hugo/project/</link>
+      <link>https://sukiakiumo.github.io/project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sukiakiumo.github.io/academia-hugo/project/</guid>
+      <guid>https://sukiakiumo.github.io/project/</guid>
       <description></description>
     </item>
     
