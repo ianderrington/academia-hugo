@@ -14,7 +14,7 @@ btn:
 superuser: true
 
 # Role/position
-role: Future Solutionist
+role: "Solutionist for the Future"
 
 # Organizations/Affiliations
 organizations:
