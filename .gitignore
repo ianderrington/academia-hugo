@@ -5,6 +5,3 @@
 # Jupyter
 .ipynb_checkpoints/
 
-# Node
-node_modules/
-public
