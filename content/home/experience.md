@@ -18,36 +18,50 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
+  title = "Founder"
+  company = "Make Truth Matter Again"
+  company_url = "www.maketruthmatteragain.org"
   location = "California"
-  date_start = "2017-01-01"
+  date_start = "2019-12-19"
   date_end = ""
   description = """
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Strategy
+  * IT
+  * Design
+  * Recruiting
+  * Marketing
+
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
+  title = "Principal Data Scientist II"
+  company = "Roche"
+  company_url = "www.roche.com"
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2015-06-18"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  * Research on algorithms and AI methods
+  * Documentaton preservation
+  * Team coordination
+  * Data analysis
+  """
 
 [[experience]]
-  title = "Professor"
-  company = "University Y"
-  company_url = ""
+  title = "Next Generation Technology Consultant"
+  company = "Illumina"
+  company_url = "www.illumina.com"
   location = "California"
-  date_start = "2017-01-01"
-  date_end = "2016-12-30"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-  
+  date_start = "2010-01-01"
+  date_end = "2012-01-01"
+  description = """
+  Responsibilities included:
+  * Algorithm and pipeline design
+  * Technology improvement and feasability reports
+  * Data analysis
+  """
+
+
 +++

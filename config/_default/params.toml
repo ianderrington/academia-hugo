@@ -91,9 +91,9 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 2
 map_api_key = "AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-latitude = "37.4275"
-longitude = "-122.1697"
-zoom = 15
+latitude = "47.6062"
+longitude = "-122.3321"
+zoom = 13
 
 ############################
 ## Plugins                ##
@@ -132,7 +132,7 @@ sharing = true
 [publications]
   # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "January 2006"
+  date_format = "2006 January"
 
   # Citation style ("apa" or "mla")
   citation_style = "apa"

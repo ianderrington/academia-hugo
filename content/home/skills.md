@@ -5,37 +5,39 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
-subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
+title = "Time Focus"
+subtitle = "Here is where my time is going, day and night."
 
 # Showcase personal skills or business features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
+#
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Analysis"
-  parcent = "90%"
-  
+  name = "Building understanding"
+  parcent = "30%"
+
 [[feature]]
   icon = "user-secret"
   icon_pack = "fas"
-  name = "Leadership"
-  parcent = "80%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  parcent = "70%"
-  
+  name = "Founding a startup"
+  parcent = "35%"  
+
 [[feature]]
   icon = "searchengin"
   icon_pack = "fab"
-  name = "Research"
-  parcent = "95%"
+  name = "Research science"
+  parcent = "25%"
+
+[[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "Creating content"
+  parcent = "10%"
+
+
 
 +++

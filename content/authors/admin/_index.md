@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Ian Derrington
-avatar_image: "user-full.png"
+avatar_image: "artificial-intelligence-3706562_1920_crop.jpg"
 # Username (this should match the folder name)
 authors:
 - admin
@@ -14,21 +14,21 @@ btn:
 superuser: true
 
 # Role/position
-role: "Solutionist for the Future"
+role: "Informationist"
 
 # Organizations/Affiliations
-organizations:
-- name: Roche
-  url: ""
-- name: Make Truth Matter Again
-  url: "www.maketruthmatteragain.org"
-- name: The Honest Majority
-  url: "www.thehonestmajority.org"
-- name: "isXY!?"
-  url: ""
+#organizations:
+#- name: Roche#\
+  #url: "www.roche.com"
+#- name: Make Truth Matter Again
+#  url: "www.maketruthmatteragain.org"
+#- name: The Honest Majority
+#  url: "www.thehonestmajority.org"
+#- name: "isXY!?"
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include massive-speed DNA synthesis and scanning, networked understanding of biological and memetic systems, and improving human and AI-based understanding
 
 # Should the user's education and interests be displayed?
 display_education: false
@@ -85,8 +85,8 @@ user_groups:
 - Toastmasters
 ---
 
-Ian Derrington is a Principal Data Scientist at Roche working on next generation sequencing technologies. He is also working hard to create next-gen solutions to combat disinformation as a founder www.maketruthmatteragain.org.
+Ian Derrington's working to industrialize next generation healthcare technologies  at Roche and to create next-gen solutions to combat disinformation as founder of MakeTruthMatterAgain.org.
 
-#![reviews](../../img/certifacates.jpg)
+#### [reviews](../../img/certifacates.jpg)
 
-#It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem #Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
+There are two dimensions essential for our future. Our ability to survive biologically, and our ability to survive psychologically. The entropic challenges of life make life an amazing challenge to succeed through. When we focus on how to better succeed, we can have greater success.
