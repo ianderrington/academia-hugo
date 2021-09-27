@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Ian Derrington
-avatar_image: "user-full.png"
+avatar_image: "../../static/img/user-full.png"
 # Username (this should match the folder name)
 authors:
 - admin
@@ -87,6 +87,6 @@ user_groups:
 
 Ian Derrington is a Principal Data Scientist at Roche working on next generation sequencing technologies. He is also working hard to create next-gen solutions to combat disinformation as a founder www.maketruthmatteragain.org.
 
-#![reviews](../../img/certifacates.jpg)
+#![reviews](../../../img/certifacates.jpg)
 
 #It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem #Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
