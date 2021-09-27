@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Michael Vahn
+name: Ian Derrington
 avatar_image: "user-full.png"
 # Username (this should match the folder name)
 authors:
@@ -14,11 +14,17 @@ btn:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Future Solutionist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Roche
+  url: ""
+- name: Make Truth Matter Again
+  url: "www.maketruthmatteragain.org"
+- name: The Honest Majority
+  url: "www.thehonestmajority.org"
+- name: "isXY!?"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,9 +34,11 @@ bio: My research interests include distributed robotics, mobile computing and pr
 display_education: false
 
 interests:
+
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Nano-Biological Interfacing
+- Bio-Nano info storage (DNA and more)
+- Information Graphs and Retrieval
 
 education:
   courses:
@@ -54,13 +62,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ian_derrington
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=NfmJ5GIAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/sukiakiumo
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -69,16 +77,16 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
-- Visitors
+- BioPhysical Society
+- Toastmasters
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ian Derrington is a Principal Data Scientist at Roche working on next generation sequencing technologies. He is also working hard to create next-gen solutions to combat disinformation as a founder www.maketruthmatteragain.org.
 
-![reviews](../../img/certifacates.jpg)
+#![reviews](../../img/certifacates.jpg)
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
+#It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem #Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
