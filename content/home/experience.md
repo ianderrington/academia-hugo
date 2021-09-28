@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
-subtitle = "PREVIOUS ASSOCIATIONS THAT HELPED TO GATHER EXPERIENCE"
+subtitle = "Where have I gathered my knowledge"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -21,9 +21,10 @@ date_format = "Jan 2006"
   title = "Founder"
   company = "Make Truth Matter Again"
   company_url = "www.maketruthmatteragain.org"
-  location = "California"
+  location = "Washington"
   date_start = "2019-12-19"
   date_end = ""
+
   description = """
   Responsibilities include:
   * Strategy
@@ -38,13 +39,13 @@ date_format = "Jan 2006"
   title = "Principal Data Scientist II"
   company = "Roche"
   company_url = "www.roche.com"
-  location = "California"
+  location = "Washington"
   date_start = "2015-06-18"
   date_end = ""
   description = """
   Responsibilities include:
   * Research on algorithms and AI methods
-  * Documentaton preservation
+  * Documentation preservation
   * Team coordination
   * Data analysis
   """
@@ -59,9 +60,23 @@ date_format = "Jan 2006"
   description = """
   Responsibilities included:
   * Algorithm and pipeline design
-  * Technology improvement and feasability reports
+  * Technology improvement and feasibility reports
   * Data analysis
   """
 
+  [[experience]]
+    title = "Post-doctoral researcher"
+    company = "University of WA"
+    company_url = "https://depts.washington.edu/nanopore/"
+    location = "Washington"
+    date_start = "2010-01-01"
+    date_end = "2015-01-01"
+    description = """
+    Responsibilities included:
+
+    * Single-molecule biotech development
+    * Mentorship of undergraduate and graduate students
+    * Data analysis, algorithms, and pipelines.
+    """
 
 +++

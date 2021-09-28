@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Time Focus"
-subtitle = "Here is where my time is going, day and night."
+title = "Time"
+subtitle = "Where I use my time, in both my work during the day and night."
 
 # Showcase personal skills or business features.
 #
@@ -17,7 +17,7 @@ subtitle = "Here is where my time is going, day and night."
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Building understanding"
+  name = "Data understanding"
   parcent = "30%"
 
 [[feature]]

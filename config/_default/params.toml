@@ -57,6 +57,7 @@ email = "sukiakiumo@gmail.com"
 #phone = "9"
 address = "Seattle, WA"
 
+formspree = "https://formspree.io/f/xoqyrgqb" 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
 
